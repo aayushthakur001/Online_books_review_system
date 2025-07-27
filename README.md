@@ -1,5 +1,10 @@
 # 📚 Online_books_review_system
 
+Welcome to the **Online Book Review Server-Side Application**, the final project for the IBM Course "**Developing Back-End Apps with Node.js and Express**". This project is designed to provide a platform for managing books, writing reviews, and interacting with book-related data through a RESTful API. The system uses **Node.js** and **Express.js** for server-side logic, **MySQL** as the database, and **Sequelize.js** for ORM (Object-Relational Mapping).
+
+## Project Overview
+
+
 A comprehensive RESTful API for managing books, users, and reviews built with Node.js, Express.js, and MySQL. This application serves as the backend for an online book review platform where users can discover books, write reviews, and share their reading experiences.
 
 ## 🚀 Features
